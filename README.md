@@ -6,8 +6,10 @@ Here’s a draft for the README file of your project **Mapty**. I've included a 
 
 Mapty is a JavaScript web application that helps users track their workout activities such as running and cycling by marking them on a map. Users can log workout details including distance, duration, pace, and speed, and visualize these workouts directly on an interactive map. The app stores data locally, allowing workouts to be persistent across sessions.
 
-![Mapty Architecture](path-to-architecture-image.png) <!-- Replace with the correct path or URL -->
-![Mapty Flowchart](path-to-flowchart-image.png) <!-- Replace with the correct path or URL -->
+![Mapty Architecture](![Mapty-architecture-final](https://github.com/user-attachments/assets/dca3747e-b23f-46fa-be3c-2bab992a78e3)
+) <!-- Replace with the correct path or URL -->
+![Mapty Flowchart](![Mapty-flowchart](https://github.com/user-attachments/assets/d2a58a4d-4270-4ebe-947d-1c08dfc09424)
+) <!-- Replace with the correct path or URL -->
 
 ## Table of Contents
 
@@ -30,7 +32,7 @@ Mapty is a JavaScript web application that helps users track their workout activ
 
 ## Demo
 
-You can check out a live version of Mapty at: **[Demo Link]** (Add your deployed link here).
+You can check out a live version of Mapty at: **[[Demo Link](https://mapty-lemon.vercel.app/)]** (Add your deployed link here).
 
 ## Technologies
 
